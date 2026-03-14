@@ -11,3 +11,9 @@ This project analyzes global air quality indicators using Microsoft Power BI.
 
 ## Tools Used
 - Microsoft Power BI
+
+ ## Project Demo Video
+
+Watch this demo video of the dashboard here:
+
+https://github.com/SwatiMishra11/Global-Air-Quality-Dashboard/blob/main/Recording%202026-03-14%20115720.mp4
