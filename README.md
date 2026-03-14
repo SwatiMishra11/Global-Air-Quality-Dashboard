@@ -1,19 +1,30 @@
 # Global Air Quality Dashboard
 
-This project analyzes global air quality indicators using Microsoft Power BI.
+This project analyzes global air quality indicators using **Microsoft Power BI**.  
+It provides an interactive dashboard to visualize air pollution trends across different countries and cities.
 
 ## Features
-- Average AQI analysis
-- CO, NO2, Ozone, and PM2.5 indicators
-- Country and city filters
-- Top 10 countries by AQI
-- Bottom 5 countries by PM2.5 values
+- Average AQI analysis  
+- CO, NO₂, Ozone, and PM2.5 indicators  
+- Country-wise and city-wise filters  
+- Top 10 countries by AQI  
+- Bottom 5 countries by PM2.5 values  
 
 ## Tools Used
-- Microsoft Power BI
+- Microsoft Power BI  
 
- ## Project Demo Video
+## How to Open
+1. Download the `.pbix` Power BI file from this repository.  
+2. Open it using **Power BI Desktop**.  
+3. Use the filters in the dashboard to explore country-wise or city-wise air quality data.  
 
-Watch this demo video of the dashboard here:
+## Dataset
+Download the dataset used for this project here:  
+[Global Air Pollution Data](https://github.com/SwatiMishra11/Global-Air-Quality-Dashboard/blob/main/global_air_pollution_data.csv)  
 
-https://github.com/SwatiMishra11/Global-Air-Quality-Dashboard/blob/main/Recording%202026-03-14%20115720.mp4
+## Dashboard Demo Video
+Watch the demo video here (download if needed):  
+[Dashboard Demo Video](https://github.com/SwatiMishra11/Global-Air-Quality-Dashboard/blob/main/Recording%202026-03-14%20115720.mp4) 
+
+**GitHub Repository Link:**  
+[Global Air Quality Dashboard](https://github.com/SwatiMishra11/Global-Air-Quality-Dashboard)
